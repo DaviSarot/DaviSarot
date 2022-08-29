@@ -5,8 +5,7 @@ Quero em pouco tempo estar trabalhando e fazendo academia
 Meu maior sonho é fazer alguma ciência exata como trabalho (Biologo,Físico, Ou o maior,*ASTRONOMO*)
 Adoro escutar musica, desenhar,e quero aprender a Cozinhar
 É ISSO
-
-![Snake animation](https://github.com/DaviSarot/DaviSarot/blob/output/github-contribution-grid-snake.svg)
+não tenho muito mais o que dizer
 
 
 <!--
